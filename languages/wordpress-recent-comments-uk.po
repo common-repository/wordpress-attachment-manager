@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 1.7 Uk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-07 20:06+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jurko Chervony <wordpress@skinik.name>\n"
+"Language-Team: Pavonine.com.ua <info@skinik.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Wordpress-Recent-Comments.php:49
+msgid "Recent Comments"
+msgstr "Останні коментарі"
+
+#: Wordpress-Recent-Comments.php:160
+msgid "Title: "
+msgstr "Заголовок: "
+
+#: Wordpress-Recent-Comments.php:167
+msgid "Number of comments to show: "
+msgstr "Скільки коментарів показувати: "
+
+#: Wordpress-Recent-Comments.php:171
+msgid "(at most 20)"
+msgstr "(не більше 20)"
+
+#: Wordpress-Recent-Comments.php:176
+msgid "Length of each comment: "
+msgstr "Довжина коментаря: "
+
+#: Wordpress-Recent-Comments.php:184
+msgid "Show post titles."
+msgstr "Показувати заголовки публікацій."
+
+#: Wordpress-Recent-Comments.php:191
+msgid "Show pingback comments."
+msgstr "Показувати пінґбеки."
+
+#: Wordpress-Recent-Comments.php:198
+msgid "Show trackback comments."
+msgstr "Показувати трекбеки."
+
+#: Wordpress-Recent-Comments.php:205
+msgid "Show author avatars."
+msgstr "Показувати аватари."
+
+#: Wordpress-Recent-Comments.php:211
+msgid "The size of avatars: "
+msgstr "Розмір аватарів:"
+
+#: Wordpress-Recent-Comments.php:215
+msgid "(8 - 96)"
+msgstr "(8 - 96)"
+
+#: Wordpress-Recent-Comments.php:220
+msgid "The position of avatars: "
+msgstr "Розміщення аватарів:"
+
+#: Wordpress-Recent-Comments.php:222
+msgid "Left"
+msgstr "Зліва"
+
+#: Wordpress-Recent-Comments.php:223
+msgid "Right"
+msgstr "Справа"
+
+#: Wordpress-Recent-Comments.php:230
+msgid "The default avatar: "
+msgstr "Аватар за замовчуванням:"
+
+#: Wordpress-Recent-Comments.php:234
+msgid "(Filename from '/Wordpress-Recent-Comments/avatars/' directory or Internet address)"
+msgstr "(Файл з теки '/Wordpress-Recent-Comments/avatars/' або URL адреса аватару)"
+
+#: Wordpress-Recent-Comments.php:240
+msgid "Show navigator buttons."
+msgstr "Показувати кнопки навігації."
+
+#: Wordpress-Recent-Comments.php:247
+msgid "Show the comments from administrators."
+msgstr "Показувати коментарі адміністратора."
+
+#: Wordpress-Recent-Comments.php:254
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display."
+msgstr "Перетворювати текстові смайлики <code>:-)</code> або <code>:-P</code> в графічні смайлики."
+
+#: Wordpress-Recent-Comments.php:270
+msgid "The most recent comments"
+msgstr "Нові коментарі"
+
+#: Wordpress-Recent-Comments.php:271
+#: Wordpress-Recent-Comments.php:272
+#: Wordpress-Recent-Comments.php:309
+msgid "Wordpress-Recent-Comments"
+msgstr "Wordpress-Recent-Comments"
+
+#: Wordpress-Recent-Comments.php:318
+msgid "Wordpress-Recent-Comments Options"
+msgstr "Опції Wordpress-Recent-Comments"
+
+#: Wordpress-Recent-Comments.php:323
+msgid "JavaScript Library"
+msgstr "Бібліотека JavaScript"
+
+#: Wordpress-Recent-Comments.php:327
+msgid "Use normal JavaScript library that is supported by this plugin."
+msgstr "Використовувати нормальну бібліотеку JavaScript, яка підтримується даним плаґіном"
+
+#: Wordpress-Recent-Comments.php:332
+msgid "Use jQuery library that is supported by WordPress."
+msgstr "Використовувати бібліотеку jQuery яка підтримується WordPress."
+
+#: Wordpress-Recent-Comments.php:337
+msgid "Custom jQuery."
+msgstr "Інший jQuery."
+
+#: Wordpress-Recent-Comments.php:340
+msgid "Please input the URL of jQuery:"
+msgstr "Будь ласка, введіть URL до jQuery:"
+
+#: Wordpress-Recent-Comments.php:349
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: core.php:43
+#: core.php:189
+msgid "Loading"
+msgstr "Завантаження..."
+
+#: core.php:100
+msgid "Anonymous"
+msgstr "Анонім"
+
+#: core.php:119
+msgid "Pingback:"
+msgstr "Пінґбек:"
+
+#: core.php:121
+msgid "Trackback:"
+msgstr "Трекбек:"
+
+#: core.php:123
+msgid "on"
+msgstr "до публікації"
+
+#: core.php:142
+msgid "&laquo; Newest"
+msgstr "&laquo; До початку"
+
+#: core.php:155
+msgid "&laquo; Newer"
+msgstr "&laquo; Новіші"
+
+#: core.php:161
+msgid "Older &raquo;"
+msgstr "Старіші &raquo;"
+
+#: core.php:213
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: core.php:214
+msgid "H:i"
+msgstr "H:i"
+
+#: core.php:215
+#, php-format
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: core.php:224
+msgid "&laquo; Back"
+msgstr "&laquo; Назад"
+
+#: core.php:322
+msgid "&raquo;"
+msgstr "&raquo;"
+

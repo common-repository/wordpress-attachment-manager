@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-23 21:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: NeoEase <http://111waystomakemoney.com/wordpress-recent-comments/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:43
+#: core.php:189
+msgid "Loading"
+msgstr "بارگزاری"
+
+#: core.php:100
+msgid "Anonymous"
+msgstr "ناشناس"
+
+#: core.php:119
+msgid "Pingback:"
+msgstr "بازخوان:"
+
+#: core.php:121
+msgid "Trackback:"
+msgstr "بازتاب:"
+
+#: core.php:123
+msgid "on"
+msgstr "در"
+
+#: core.php:142
+msgid "&laquo; Newest"
+msgstr "&laquo; تازه‎ترین"
+
+#: core.php:155
+msgid "&laquo; Newer"
+msgstr "&laquo; تازه‎تر"
+
+#: core.php:161
+msgid "Older &raquo;"
+msgstr "قدیمی‎تر &raquo;"
+
+#: core.php:214
+msgid "Y/m/d"
+msgstr ""
+
+#: core.php:215
+msgid "H:i"
+msgstr ""
+
+#: core.php:216
+#, php-format
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: core.php:229
+msgid "&laquo; Back"
+msgstr "&laquo; بازگشت"
+
+#: core.php:327
+msgid "&raquo;"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:49
+msgid "Recent Comments"
+msgstr "دیدگاه‎های تازه"
+
+#: Wordpress-Recent-Comments.php:160
+msgid "Title: "
+msgstr "عنوان"
+
+#: Wordpress-Recent-Comments.php:167
+msgid "Number of comments to show: "
+msgstr "تعداد دیدگاه‎ها برای نمایش:"
+
+#: Wordpress-Recent-Comments.php:171
+msgid "(at most 20)"
+msgstr "(حداکثر 20)"
+
+#: Wordpress-Recent-Comments.php:176
+msgid "Length of each comment: "
+msgstr "طول هر دیدگاه"
+
+#: Wordpress-Recent-Comments.php:184
+msgid "Show post titles."
+msgstr "عنوان نوشته را نشان بده."
+
+#: Wordpress-Recent-Comments.php:191
+msgid "Show pingback comments."
+msgstr "بازخوان ها را نشان بده."
+
+#: Wordpress-Recent-Comments.php:198
+msgid "Show trackback comments."
+msgstr "بازتاب‎ها را نشان بده"
+
+#: Wordpress-Recent-Comments.php:205
+msgid "Show author avatars."
+msgstr "آواتور نویسنده را نشان بده."
+
+#: Wordpress-Recent-Comments.php:211
+msgid "The size of avatars: "
+msgstr "اندازه‎ی آواتور"
+
+#: Wordpress-Recent-Comments.php:215
+msgid "(8 - 96)"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:220
+msgid "The position of avatars: "
+msgstr "مکان آواتور"
+
+#: Wordpress-Recent-Comments.php:222
+msgid "Left"
+msgstr "چپ"
+
+#: Wordpress-Recent-Comments.php:223
+msgid "Right"
+msgstr "راست"
+
+#: Wordpress-Recent-Comments.php:230
+msgid "The default avatar: "
+msgstr "آواتور پیش‎فرض"
+
+#: Wordpress-Recent-Comments.php:234
+msgid "(Filename from '/Wordpress-Recent-Comments/avatars/' directory or Internet address)"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:240
+msgid "Show navigator buttons."
+msgstr "تگمه های ناوبری را نشان بده. "
+
+#: Wordpress-Recent-Comments.php:247
+msgid "Show the comments from administrators."
+msgstr "دیدگاه های مدیر را نشان بده. "
+
+#: Wordpress-Recent-Comments.php:254
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display."
+msgstr "کدهایی مثل <code>:-)</code> یا <code>:-P</code> را به خندانک های گرافیکی تبدیل کن. "
+
+#: Wordpress-Recent-Comments.php:270
+msgid "The most recent comments"
+msgstr "تازه‎ترین دیدگته‎ها"
+
+#: Wordpress-Recent-Comments.php:271
+#: Wordpress-Recent-Comments.php:272
+msgid "Wordpress-Recent-Comments"
+msgstr ""
+

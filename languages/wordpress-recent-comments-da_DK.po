@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-23 21:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bharath <wuzhao.mail@gmail.com>\n"
+"Language-Team: LYSTORP.COM <http://www.lystorp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:43
+#: core.php:189
+msgid "Loading"
+msgstr "Loader"
+
+#: core.php:100
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: core.php:119
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: core.php:121
+msgid "Trackback:"
+msgstr "Trackback:"
+
+#: core.php:123
+msgid "on"
+msgstr "om"
+
+#: core.php:142
+msgid "&laquo; Newest"
+msgstr "&laquo; Nyeste"
+
+#: core.php:155
+msgid "&laquo; Newer"
+msgstr "&laquo; Nyere"
+
+#: core.php:161
+msgid "Older &raquo;"
+msgstr "Ældre &raquo;"
+
+#: core.php:214
+msgid "Y/m/d"
+msgstr "d/m/Y"
+
+#: core.php:215
+msgid "H:i"
+msgstr "H:i"
+
+#: core.php:216
+#, php-format
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: core.php:229
+msgid "&laquo; Back"
+msgstr "&laquo; Tilbage"
+
+#: core.php:327
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: Wordpress-Recent-Comments.php:49
+msgid "Recent Comments"
+msgstr "Seneste kommentarer"
+
+#: Wordpress-Recent-Comments.php:160
+msgid "Title: "
+msgstr "Titel:"
+
+#: Wordpress-Recent-Comments.php:167
+msgid "Number of comments to show: "
+msgstr "Antal kommentarer der skal vises:"
+
+#: Wordpress-Recent-Comments.php:171
+msgid "(at most 20)"
+msgstr "(højst 20)"
+
+#: Wordpress-Recent-Comments.php:176
+msgid "Length of each comment: "
+msgstr "Længde på hver kommantar:"
+
+#: Wordpress-Recent-Comments.php:184
+msgid "Show post titles."
+msgstr "Vis indlægs titel"
+
+#: Wordpress-Recent-Comments.php:191
+msgid "Show pingback comments."
+msgstr "Vis pingback kommentarer."
+
+#: Wordpress-Recent-Comments.php:198
+msgid "Show trackback comments."
+msgstr "Vis trackback kommentarer."
+
+#: Wordpress-Recent-Comments.php:205
+msgid "Show author avatars."
+msgstr "Vis forfatters avatar."
+
+#: Wordpress-Recent-Comments.php:211
+msgid "The size of avatars: "
+msgstr "Størrelse på avatar:"
+
+#: Wordpress-Recent-Comments.php:215
+msgid "(8 - 96)"
+msgstr "(8 - 96)"
+
+#: Wordpress-Recent-Comments.php:220
+msgid "The position of avatars: "
+msgstr "Position på avatar:"
+
+#: Wordpress-Recent-Comments.php:222
+msgid "Left"
+msgstr "Venstre"
+
+#: Wordpress-Recent-Comments.php:223
+msgid "Right"
+msgstr "Højre"
+
+#: Wordpress-Recent-Comments.php:230
+msgid "The default avatar: "
+msgstr "Standard avatar:"
+
+#: Wordpress-Recent-Comments.php:234
+msgid "(Filename from '/Wordpress-Recent-Comments/avatars/' directory or Internet address)"
+msgstr "(Filnavn fra '/Wordpress-Recent-Comments/avatars/' mappen eller en Internet adresse)"
+
+#: Wordpress-Recent-Comments.php:240
+msgid "Show navigator buttons."
+msgstr "Vis navigations knapper."
+
+#: Wordpress-Recent-Comments.php:247
+msgid "Show the comments from administrators."
+msgstr "Vis kommentarer fra administratorer."
+
+#: Wordpress-Recent-Comments.php:254
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display."
+msgstr "Konverter emotions som <code>:-)</code> og <code>:-P</code> til grafik."
+
+#: Wordpress-Recent-Comments.php:270
+msgid "The most recent comments"
+msgstr "De seneste kommentarer"
+
+#: Wordpress-Recent-Comments.php:271
+#: Wordpress-Recent-Comments.php:272
+msgid "Wordpress-Recent-Comments"
+msgstr "Wordpress-Recent-Comments"
+

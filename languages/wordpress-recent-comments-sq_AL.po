@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments v1.8.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-04 02:02-0600\n"
+"Last-Translator: Romeo Shuka <webmaster@romeolab.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Albanian\n"
+"X-Poedit-Country: ALBANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: core.php:43
+#: core.php:189
+#@ Wordpress-Recent-Comments
+msgid "Loading"
+msgstr "Duke u ngarkuar"
+
+#: core.php:100
+#@ Wordpress-Recent-Comments
+msgid "Anonymous"
+msgstr "Anonim"
+
+#: core.php:119
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: core.php:121
+msgid "Trackback:"
+msgstr "Trackback:"
+
+#: core.php:123
+#@ Wordpress-Recent-Comments
+msgid "on"
+msgstr "më"
+
+#: core.php:142
+#@ Wordpress-Recent-Comments
+msgid "&laquo; Newest"
+msgstr "&laquo; Më të rejat"
+
+#: core.php:155
+#@ Wordpress-Recent-Comments
+msgid "&laquo; Newer"
+msgstr "&laquo; Më të reja"
+
+#: core.php:161
+#@ Wordpress-Recent-Comments
+msgid "Older &raquo;"
+msgstr "Më të vjetra &raquo;"
+
+#: core.php:213
+#@ Wordpress-Recent-Comments
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: core.php:214
+#@ Wordpress-Recent-Comments
+msgid "H:i"
+msgstr "H:i"
+
+#: core.php:215
+#, php-format
+#@ Wordpress-Recent-Comments
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: core.php:224
+#@ Wordpress-Recent-Comments
+msgid "&laquo; Back"
+msgstr "&laquo; Mbrapsht"
+
+#: core.php:322
+#@ Wordpress-Recent-Comments
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: Wordpress-Recent-Comments.php:49
+#@ Wordpress-Recent-Comments
+msgid "Recent Comments"
+msgstr "Komentet e fundit"
+
+#: Wordpress-Recent-Comments.php:160
+#@ Wordpress-Recent-Comments
+msgid "Title: "
+msgstr "Titulli:"
+
+#: Wordpress-Recent-Comments.php:167
+#@ Wordpress-Recent-Comments
+msgid "Number of comments to show: "
+msgstr "Numri i komenteve për tu treguar:"
+
+#: Wordpress-Recent-Comments.php:171
+#@ Wordpress-Recent-Comments
+msgid "(at most 20)"
+msgstr "(së shumti 20)"
+
+#: Wordpress-Recent-Comments.php:176
+#@ Wordpress-Recent-Comments
+msgid "Length of each comment: "
+msgstr "Gjatësia e secilit koment:"
+
+#: Wordpress-Recent-Comments.php:184
+#@ Wordpress-Recent-Comments
+msgid "Show post titles."
+msgstr "Trego titullin e postimit."
+
+#: Wordpress-Recent-Comments.php:191
+#@ Wordpress-Recent-Comments
+msgid "Show pingback comments."
+msgstr "Trego pingbacket e komenteve."
+
+#: Wordpress-Recent-Comments.php:198
+#@ Wordpress-Recent-Comments
+msgid "Show trackback comments."
+msgstr "Trego trackbacket e komenteve."
+
+#: Wordpress-Recent-Comments.php:205
+#@ Wordpress-Recent-Comments
+msgid "Show author avatars."
+msgstr "Trego avatarët e autorëve."
+
+#: Wordpress-Recent-Comments.php:211
+#@ Wordpress-Recent-Comments
+msgid "The size of avatars: "
+msgstr "Madhësia avatarit:"
+
+#: Wordpress-Recent-Comments.php:215
+msgid "(8 - 96)"
+msgstr "(8 - 96)"
+
+#: Wordpress-Recent-Comments.php:220
+#@ Wordpress-Recent-Comments
+msgid "The position of avatars: "
+msgstr "Pozicioni i avatarëve:"
+
+#: Wordpress-Recent-Comments.php:222
+#@ Wordpress-Recent-Comments
+msgid "Left"
+msgstr "Majtas"
+
+#: Wordpress-Recent-Comments.php:223
+#@ Wordpress-Recent-Comments
+msgid "Right"
+msgstr "Djathtas"
+
+#: Wordpress-Recent-Comments.php:230
+#@ Wordpress-Recent-Comments
+msgid "The default avatar: "
+msgstr "Avatar default:"
+
+#: Wordpress-Recent-Comments.php:234
+#@ Wordpress-Recent-Comments
+msgid "(Filename from '/Wordpress-Recent-Comments/avatars/' directory or Internet address)"
+msgstr "(Emri i dokumentit nga dosja '/ Wordpress-Recent-Comments/avatars /' ose nga adresë interneti)"
+
+#: Wordpress-Recent-Comments.php:240
+#@ Wordpress-Recent-Comments
+msgid "Show navigator buttons."
+msgstr "Trego butonat e lundrimit."
+
+#: Wordpress-Recent-Comments.php:247
+#@ Wordpress-Recent-Comments
+msgid "Show the comments from administrators."
+msgstr "Trego komentet nga administratorët."
+
+#: Wordpress-Recent-Comments.php:254
+#@ Wordpress-Recent-Comments
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display."
+msgstr "Shndërro emocione si <code>:-)</code> dhe <code>:-P</code> në grafik."
+
+#: Wordpress-Recent-Comments.php:270
+#@ Wordpress-Recent-Comments
+msgid "The most recent comments"
+msgstr "Komentet e fundit"
+
+#: Wordpress-Recent-Comments.php:271
+#: Wordpress-Recent-Comments.php:272
+#: Wordpress-Recent-Comments.php:309
+#@ Wordpress-Recent-Comments
+msgid "Wordpress-Recent-Comments"
+msgstr "Wordpress-Recent-Comments"
+
+#: Wordpress-Recent-Comments.php:318
+#@ Wordpress-Recent-Comments
+msgid "Wordpress-Recent-Comments Options"
+msgstr "Cilësitë e Wordpress-Recent-Comments"
+
+#: Wordpress-Recent-Comments.php:323
+#@ Wordpress-Recent-Comments
+msgid "JavaScript Library"
+msgstr "Libraria JavaScript"
+
+#: Wordpress-Recent-Comments.php:327
+#@ Wordpress-Recent-Comments
+msgid "Use normal JavaScript library that is supported by this plugin."
+msgstr "Përdor librari normale të JavaScript që mbështetet nga ky plugin."
+
+#: Wordpress-Recent-Comments.php:332
+#@ Wordpress-Recent-Comments
+msgid "Use jQuery library that is supported by WordPress."
+msgstr "Përdor librari jQuery që mbështetet nga Wordpress."
+
+#: Wordpress-Recent-Comments.php:337
+#@ Wordpress-Recent-Comments
+msgid "Custom jQuery."
+msgstr "jQuery personale."
+
+#: Wordpress-Recent-Comments.php:340
+#@ Wordpress-Recent-Comments
+msgid "Please input the URL of jQuery:"
+msgstr "Ju lutem vendosni URL-në e jQuery:"
+
+#: Wordpress-Recent-Comments.php:349
+#@ Wordpress-Recent-Comments
+msgid "Save Changes"
+msgstr "Ruaj Ndryshimet"
+

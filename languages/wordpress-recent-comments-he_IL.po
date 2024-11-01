@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-23 21:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roy <r>\n"
+"Language-Team: Roy Azrad <http://111waystomakemoney.com/wordpress-recent-comments/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:43
+#: core.php:189
+msgid "Loading"
+msgstr "רגע אחד"
+
+#: core.php:100
+msgid "Anonymous"
+msgstr "פלוני"
+
+#: core.php:119
+msgid "Pingback:"
+msgstr "פינגבאק:"
+
+#: core.php:121
+msgid "Trackback:"
+msgstr "טראקבאק:"
+
+#: core.php:123
+msgid "on"
+msgstr "על"
+
+#: core.php:142
+msgid "&laquo; Newest"
+msgstr "&laquo; הכי חדשות"
+
+#: core.php:155
+msgid "&laquo; Newer"
+msgstr "&laquo; קדימה בזמן"
+
+#: core.php:161
+msgid "Older &raquo;"
+msgstr "אחורה בזמן &raquo;"
+
+#: core.php:214
+msgid "Y/m/d"
+msgstr "d/m/Y"
+
+#: core.php:215
+msgid "H:i"
+msgstr "H:i"
+
+#: core.php:216
+#, php-format
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: core.php:229
+msgid "&laquo; Back"
+msgstr "&laquo; חזור"
+
+#: core.php:327
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: Wordpress-Recent-Comments.php:49
+msgid "Recent Comments"
+msgstr "על מה מדברים"
+
+#: Wordpress-Recent-Comments.php:160
+msgid "Title: "
+msgstr "נושא:"
+
+#: Wordpress-Recent-Comments.php:167
+msgid "Number of comments to show: "
+msgstr "מספר תגובות להציג:"
+
+#: Wordpress-Recent-Comments.php:171
+msgid "(at most 20)"
+msgstr "(לפחות 20)"
+
+#: Wordpress-Recent-Comments.php:176
+msgid "Length of each comment: "
+msgstr "אורך כל תגובה:"
+
+#: Wordpress-Recent-Comments.php:184
+msgid "Show post titles."
+msgstr "הצג כותרות הפוסט."
+
+#: Wordpress-Recent-Comments.php:191
+msgid "Show pingback comments."
+msgstr "הצג פינגבאק של תגובות"
+
+#: Wordpress-Recent-Comments.php:198
+msgid "Show trackback comments."
+msgstr "הצג טראקבאק של תגובות"
+
+#: Wordpress-Recent-Comments.php:205
+msgid "Show author avatars."
+msgstr "הצג אווטר של הכותב"
+
+#: Wordpress-Recent-Comments.php:211
+msgid "The size of avatars: "
+msgstr "גודל אווטאר:"
+
+#: Wordpress-Recent-Comments.php:215
+msgid "(8 - 96)"
+msgstr "(8 - 96)"
+
+#: Wordpress-Recent-Comments.php:220
+msgid "The position of avatars: "
+msgstr "מיקום האווטאר:"
+
+#: Wordpress-Recent-Comments.php:222
+msgid "Left"
+msgstr "שמאל"
+
+#: Wordpress-Recent-Comments.php:223
+msgid "Right"
+msgstr "ימין"
+
+#: Wordpress-Recent-Comments.php:230
+msgid "The default avatar: "
+msgstr "אווטאר ברירת מחדל:"
+
+#: Wordpress-Recent-Comments.php:234
+msgid "(Filename from '/Wordpress-Recent-Comments/avatars/' directory or Internet address)"
+msgstr "(שם קובץ מהספרייה או כתובת רשת:  '/Wordpress-Recent-Comments/avatars/ )"
+
+#: Wordpress-Recent-Comments.php:240
+msgid "Show navigator buttons."
+msgstr "הצג כפתורי ניווט"
+
+#: Wordpress-Recent-Comments.php:247
+msgid "Show the comments from administrators."
+msgstr "הצג גם תגובות מהאדמיניסטרטור"
+
+#: Wordpress-Recent-Comments.php:254
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display."
+msgstr "המר אוטומטית סימני קוד של סמיילים לגרפיקה"
+
+#: Wordpress-Recent-Comments.php:270
+msgid "The most recent comments"
+msgstr "התגובות החדשות ביותר"
+
+#: Wordpress-Recent-Comments.php:271
+#: Wordpress-Recent-Comments.php:272
+msgid "Wordpress-Recent-Comments"
+msgstr "Wordpress-Recent-Comments"
+

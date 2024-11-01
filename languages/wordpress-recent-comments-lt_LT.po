@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-23 21:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: NeoEase <http://111waystomakemoney.com/wordpress-recent-comments/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core.php:43
+#: core.php:189
+msgid "Loading"
+msgstr "Kraunama"
+
+#: core.php:100
+msgid "Anonymous"
+msgstr "Anonimiškai"
+
+#: core.php:119
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: core.php:121
+msgid "Trackback:"
+msgstr "Trackback:"
+
+#: core.php:123
+msgid "on"
+msgstr "apie"
+
+#: core.php:142
+msgid "&laquo; Newest"
+msgstr "&laquo; Naujausi"
+
+#: core.php:155
+msgid "&laquo; Newer"
+msgstr "&laquo; Naujesni"
+
+#: core.php:161
+msgid "Older &raquo;"
+msgstr "Senesni &raquo;"
+
+#: core.php:214
+msgid "Y/m/d"
+msgstr "Y.m.d"
+
+#: core.php:215
+msgid "H:i"
+msgstr "G:i"
+
+#: core.php:216
+#, php-format
+msgid "%1$s - %2$s"
+msgstr "%1$s – %2$s"
+
+#: core.php:229
+msgid "&laquo; Back"
+msgstr "&laquo; Atgal"
+
+#: core.php:327
+msgid "&raquo;"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:49
+msgid "Recent Comments"
+msgstr "Naujausi komentarai"
+
+#: Wordpress-Recent-Comments.php:160
+msgid "Title: "
+msgstr "Antraštė:"
+
+#: Wordpress-Recent-Comments.php:167
+msgid "Number of comments to show: "
+msgstr "Rodomų komentarų skaičius: "
+
+#: Wordpress-Recent-Comments.php:171
+msgid "(at most 20)"
+msgstr "(daugiausiai 20)"
+
+#: Wordpress-Recent-Comments.php:176
+msgid "Length of each comment: "
+msgstr "Komentaro ilgis: "
+
+#: Wordpress-Recent-Comments.php:184
+msgid "Show post titles."
+msgstr "Rodyti įrašų antraštes."
+
+#: Wordpress-Recent-Comments.php:191
+msgid "Show pingback comments."
+msgstr "Rodyti pingback komentarus."
+
+#: Wordpress-Recent-Comments.php:198
+msgid "Show trackback comments."
+msgstr "Rodyti trackback komentarus."
+
+#: Wordpress-Recent-Comments.php:205
+msgid "Show author avatars."
+msgstr "Rodyti autorių pseudoportretus."
+
+#: Wordpress-Recent-Comments.php:211
+msgid "The size of avatars: "
+msgstr "Pseudoportretų dydis: "
+
+#: Wordpress-Recent-Comments.php:215
+msgid "(8 - 96)"
+msgstr "(8 - 96)"
+
+#: Wordpress-Recent-Comments.php:220
+msgid "The position of avatars: "
+msgstr "Pseudoportretų pozicija: "
+
+#: Wordpress-Recent-Comments.php:222
+msgid "Left"
+msgstr "Kairėje"
+
+#: Wordpress-Recent-Comments.php:223
+msgid "Right"
+msgstr "Dešinėje"
+
+#: Wordpress-Recent-Comments.php:230
+msgid "The default avatar: "
+msgstr "Numatytasis pseudoportretas: "
+
+#: Wordpress-Recent-Comments.php:234
+msgid "(Filename from '/Wordpress-Recent-Comments/avatars/' directory or Internet address)"
+msgstr "(Failo vardas iš '/Wordpress-Recent-Comments/avatars/' direktorijos arba Internetinis adresas)"
+
+#: Wordpress-Recent-Comments.php:240
+msgid "Show navigator buttons."
+msgstr "Rodyti navigacijos mygtukus."
+
+#: Wordpress-Recent-Comments.php:247
+msgid "Show the comments from administrators."
+msgstr "Rodyti administratorių komentarus."
+
+#: Wordpress-Recent-Comments.php:254
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display."
+msgstr "Pakeisti tokius jaustukus kaip <code>:-)</code> ir <code>:-P</code> į paveikslėlius rodant."
+
+#: Wordpress-Recent-Comments.php:270
+msgid "The most recent comments"
+msgstr "Naujausi komentarai"
+
+#: Wordpress-Recent-Comments.php:271
+#: Wordpress-Recent-Comments.php:272
+msgid "Wordpress-Recent-Comments"
+msgstr "Wordpress-Recent-Comments"
+

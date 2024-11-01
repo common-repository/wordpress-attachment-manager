@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress-Recent-Comments 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-15 13:01+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bharath <wuzhao.mail@gmail.com>\n"
+"Language-Team: NeoEase <http://111waystomakemoney.com/wordpress-recent-comments/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Wordpress-Recent-Comments.php:36
+#: Wordpress-Recent-Comments.php:37
+#: Wordpress-Recent-Comments.php:432
+msgid "Loading"
+msgstr "正在加载"
+
+#: Wordpress-Recent-Comments.php:57
+msgid "Recent Comments"
+msgstr "最新评论"
+
+#: Wordpress-Recent-Comments.php:109
+msgid "Title: "
+msgstr "标题: "
+
+#: Wordpress-Recent-Comments.php:126
+msgid "The most recent comments"
+msgstr "在侧边栏显示最新评论的列表"
+
+#: Wordpress-Recent-Comments.php:127
+#: Wordpress-Recent-Comments.php:128
+#: Wordpress-Recent-Comments.php:264
+msgid "Wordpress-Recent-Comments"
+msgstr "最新评论"
+
+#: Wordpress-Recent-Comments.php:274
+msgid "Wordpress-Recent-Comments Options"
+msgstr "Wordpress-Recent-Comments 插件设置"
+
+#: Wordpress-Recent-Comments.php:280
+msgid "CSS"
+msgstr ""
+
+#: Wordpress-Recent-Comments.php:284
+msgid "Use Wordpress-Recent-Comments.css."
+msgstr "使用 Wordpress-Recent-Comments.css."
+
+#: Wordpress-Recent-Comments.php:290
+msgid "JavaScript Library"
+msgstr "JavaScript 库"
+
+#: Wordpress-Recent-Comments.php:294
+msgid "Use normal JavaScript library that is supported by this plugin."
+msgstr "使用插件自带的 JavaScript 库."
+
+#: Wordpress-Recent-Comments.php:299
+msgid "Use jQuery library that is supported by WordPress."
+msgstr "使用 WordPress 提供的 jQuery 库."
+
+#: Wordpress-Recent-Comments.php:304
+msgid "Custom jQuery."
+msgstr "自定义 jQuery 库."
+
+#: Wordpress-Recent-Comments.php:307
+msgid "Please input the URL of jQuery:"
+msgstr "请输入 jQuery 的文件地址:"
+
+#: Wordpress-Recent-Comments.php:314
+msgid "Comment List"
+msgstr "评论列表"
+
+#: Wordpress-Recent-Comments.php:317
+msgid "comments per page."
+msgstr "条评论每页."
+
+#: Wordpress-Recent-Comments.php:322
+msgid "Show the comments from administrators."
+msgstr "显示管理员的评论."
+
+#: Wordpress-Recent-Comments.php:328
+msgid "Show pingback and trackback comments."
+msgstr "显示 pingback 和 trackback 评论."
+
+#: Wordpress-Recent-Comments.php:334
+msgid "Show navigation bar."
+msgstr "显示导航栏."
+
+#: Wordpress-Recent-Comments.php:340
+msgid "Comment Items"
+msgstr "评论条目"
+
+#: Wordpress-Recent-Comments.php:343
+msgid "characters per comment."
+msgstr "个字符每条评论."
+
+#: Wordpress-Recent-Comments.php:348
+msgid "Show post titles."
+msgstr "显示日志标题."
+
+#: Wordpress-Recent-Comments.php:354
+msgid "Show the expand button when mouse over excerpts."
+msgstr "当鼠标滑过评论摘要时显示展开按钮."
+
+#: Wordpress-Recent-Comments.php:360
+msgid "Open external pages in a new tab/window."
+msgstr "在新标签或者新页面上打开外部链接."
+
+#: Wordpress-Recent-Comments.php:366
+msgid "Show avatars on"
+msgstr "显示评论者头像在"
+
+#: Wordpress-Recent-Comments.php:369
+msgid "left"
+msgstr "左边"
+
+#: Wordpress-Recent-Comments.php:370
+msgid "right"
+msgstr "右边"
+
+#: Wordpress-Recent-Comments.php:372
+msgid ", size is"
+msgstr ", 大小为: "
+
+#: Wordpress-Recent-Comments.php:374
+msgid "pixels"
+msgstr "象素."
+
+#: Wordpress-Recent-Comments.php:379
+msgid "Show smilies as graphic icons."
+msgstr "显示笑脸图标."
+
+#: Wordpress-Recent-Comments.php:388
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: Wordpress-Recent-Comments.php:431
+msgid "%REVIEWER% on %POST%"
+msgstr "%REVIEWER% 在 %POST%"
+
+#: Wordpress-Recent-Comments.php:433
+msgid "No comments"
+msgstr "没有任何评论"
+
+#: Wordpress-Recent-Comments.php:434
+msgid "&laquo; Newest"
+msgstr "&laquo; 最新的"
+
+#: Wordpress-Recent-Comments.php:435
+msgid "&laquo; Newer"
+msgstr "&laquo; 上一页"
+
+#: Wordpress-Recent-Comments.php:436
+msgid "Older &raquo;"
+msgstr "下一页 &raquo;"
+
+#: Wordpress-Recent-Comments.php:441
+msgid "Anonymous"
+msgstr "匿名"
+
